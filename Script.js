@@ -40,10 +40,3 @@ function verificar(){
     resultado.innerHTML += `</br>${correto} corretos`
     resultado.innerHTML += ` e ${errado} errados!`
 }
-
-function testar(){
-    reset()
-    resposta.innerHTML = ""
-    resultado.innerHTML = ""
-    titulo.innerHTML = "100 Dígitos de Pi"
-}
