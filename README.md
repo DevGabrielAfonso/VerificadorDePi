@@ -1,5 +1,8 @@
 # 🧠 Desafio dos Dígitos de π
 
+**Acesse o projeto online:**  
+https://devgabrielafonso.github.io/VerificadorDePi/
+
 Um site interativo onde o usuário tenta digitar corretamente os dígitos do número **Pi (π)** e recebe um feedback detalhado mostrando quais números acertou e onde errou.
 
 Projeto focado em **lógica com JavaScript**, manipulação do DOM e experiência do usuário.
