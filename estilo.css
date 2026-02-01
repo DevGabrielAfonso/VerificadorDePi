@@ -64,3 +64,11 @@ footer{
 #intervalo{
     font-size: 16pt;
 };
+
+footer{
+    color:white;
+}
+
+a:visited{
+    color:white;
+}
